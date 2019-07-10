@@ -5,9 +5,11 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
-<title>Bienvenido a la empresa</title>
+<title>Mi primer repositorio</title>
 </head>
 <body>
-
+<h2>Hola como estas?</h2>
+<p>hahahahahah</p>
+<input/>
 </body>
 </html>
